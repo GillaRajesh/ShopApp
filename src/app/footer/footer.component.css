@@ -1,0 +1,9 @@
+.footer-text{
+    text-align: left;
+}
+.line {
+    size: 50%;
+    height: 3px;
+    background: #f1cd8f;
+    margin: 20px auto;
+  }
